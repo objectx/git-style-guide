@@ -192,9 +192,7 @@ Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches) や [git ma
 
 * *プッシュする前にテストをしましょう* 未完成のものをプッシュしてはいけません。
 
-* [annotated tags](http://git-scm.com/book/en/v2/Git-Basics-Tagging#Annotated-Tags) をリリース時等の重要な履歴を記録するために使いましょう。
-
-  [lightweight tags](http://git-scm.com/book/en/v2/Git-Basics-Tagging#Lightweight-Tags) は個人的な用途（将来参照するであろう履歴の記録）に使いましょう。
+* [annotated tags](http://git-scm.com/book/en/v2/Git-Basics-Tagging#Annotated-Tags) をリリース時等の重要な履歴を記録するために使いましょう。 [lightweight tags](http://git-scm.com/book/en/v2/Git-Basics-Tagging#Lightweight-Tags) は個人的な用途（将来参照するであろう履歴の記録）に使いましょう。
 
 * リポジトリを健全な状態に保つ為、時々以下のコマンドを使ってリポジトリのメンテナンスをしましょう:
 
