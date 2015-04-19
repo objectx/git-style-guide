@@ -1,9 +1,11 @@
+この文章は [*Git Style Guide*](https://github.com/agis-/git-style-guide) を翻訳した物です。
+
 # Git スタイルガイド
 
 このスタイルガイドは [*How to Get Your Change Into the Linux
 Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches) や [git man pages](http://git-scm.com/doc) 、ソフトウエェア開発コミュニティでの様々な Git の使い方に触発されて書かれました。
 
-以下の言語で、このスタイルガイドの翻訳を読むことが出来ます:
+以下の言語で、このガイドの翻訳を読むことが出来ます:
 
 * [Chinese (Simplified)](https://github.com/aseaday/git-style-guide)
 * [Chinese (Traditional)](https://github.com/JuanitoFatas/git-style-guide)
