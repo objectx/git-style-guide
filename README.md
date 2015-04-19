@@ -3,7 +3,7 @@
 # Git スタイルガイド
 
 このスタイルガイドは [*How to Get Your Change Into the Linux
-Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches) や [git man pages](http://git-scm.com/doc) 、ソフトウエェア開発コミュニティでの様々な Git の使い方に触発されて書かれました。
+Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches) や [git man pages](http://git-scm.com/doc) 、ソフトウェア開発コミュニティでの様々な Git の使い方に触発されて書かれました。
 
 以下の言語で、このガイドの翻訳を読むことが出来ます:
 
