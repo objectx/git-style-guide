@@ -9,6 +9,7 @@ Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches) や [git ma
 
 * [Chinese (Simplified)](https://github.com/aseaday/git-style-guide)
 * [Chinese (Traditional)](https://github.com/JuanitoFatas/git-style-guide)
+* [Korean](https://github.com/ikaruce/git-style-guide)
 * [Portuguese](https://github.com/guylhermetabosa/git-style-guide)
 
 貴方がこのガイドをよりよい物にしたいと思ったなら、是非このプロジェクトをフォークしてプルリクエストを送って下さい。
