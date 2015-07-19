@@ -10,6 +10,7 @@ Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches) や [git ma
 * [Chinese (Simplified)](https://github.com/aseaday/git-style-guide)
 * [Chinese (Traditional)](https://github.com/JuanitoFatas/git-style-guide)
 * [French](https://github.com/pierreroth64/git-style-guide)
+* [Greek](https://github.com/grigoria/git-style-guide)
 * [Korean](https://github.com/ikaruce/git-style-guide)
 * [Portuguese](https://github.com/guylhermetabosa/git-style-guide)
 * [Ukrainian](https://github.com/denysdovhan/git-style-guide)
