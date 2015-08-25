@@ -13,6 +13,7 @@ Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches) や [git ma
 * [Greek](https://github.com/grigoria/git-style-guide)
 * [Korean](https://github.com/ikaruce/git-style-guide)
 * [Portuguese](https://github.com/guylhermetabosa/git-style-guide)
+* [Thai](https://github.com/zondezatera/git-style-guide)
 * [Ukrainian](https://github.com/denysdovhan/git-style-guide)
 
 貴方がこのガイドをよりよい物にしたいと思ったなら、是非このプロジェクトをフォークしてプルリクエストを送って下さい。
