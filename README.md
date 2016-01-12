@@ -116,7 +116,7 @@ Note: *上流にプッシュされていないブランチ* 上で自分一人�
 
   また、関連する事項へのポインタ（例: 関連する issue への bug tracker 上でのリンク）があるのなら、ここに書かれるべきです:
 
-  ```shell
+  ```text
   Short (50 chars or fewer) summary of changes
 
   More detailed explanatory text, if necessary. Wrap it to
