@@ -220,6 +220,7 @@ International license](https://creativecommons.org/licenses/by/4.0/).
 # Credits
 
 Agis Anastasopoulos / [@agisanast](https://twitter.com/agisanast) / http://agis.io
+... and [contributors](https://github.com/agis-/git-style-guide/graphs/contributors)!
 
 # Translator
 * Masashi Fujita / [@objectxplosive](https://twitter.com/objectxplosive)
