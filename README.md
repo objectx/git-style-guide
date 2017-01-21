@@ -3,17 +3,20 @@
 # Git スタイルガイド
 
 このスタイルガイドは [*How to Get Your Change Into the Linux
-Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches) や [git man pages](http://git-scm.com/doc) 、ソフトウェア開発コミュニティでの様々な Git の使い方に触発されて書かれました。
+Kernel*](https://kernel.org/doc/html/latest/process/submitting-patches.html) や [git man pages](http://git-scm.com/doc) 、ソフトウェア開発コミュニティでの様々な Git の使い方に触発されて書かれました。
 
 以下の言語で、このガイドの翻訳を読むことが出来ます:
 
 * [Chinese (Simplified)](https://github.com/aseaday/git-style-guide)
 * [Chinese (Traditional)](https://github.com/JuanitoFatas/git-style-guide)
 * [French](https://github.com/pierreroth64/git-style-guide)
+* [German](https://github.com/runjak/git-style-guide)
 * [Greek](https://github.com/grigoria/git-style-guide)
 * [Korean](https://github.com/ikaruce/git-style-guide)
 * [Portuguese](https://github.com/guylhermetabosa/git-style-guide)
+* [Spanish](https://github.com/alexsimo/git-style-guide)
 * [Thai](https://github.com/zondezatera/git-style-guide)
+* [Turkish](https://github.com/CnytSntrk/git-style-guide)
 * [Ukrainian](https://github.com/denysdovhan/git-style-guide)
 
 貴方がこのガイドをよりよい物にしたいと思ったなら、是非このプロジェクトをフォークしてプルリクエストを送って下さい。
