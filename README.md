@@ -13,12 +13,14 @@ Kernel*](https://kernel.org/doc/html/latest/process/submitting-patches.html) や
 * [German](https://github.com/runjak/git-style-guide)
 * [Greek](https://github.com/grigoria/git-style-guide)
 * [Korean](https://github.com/ikaruce/git-style-guide)
+* [Polish](https://github.com/mbiesiad/git-style-guide/tree/pl_PL)
 * [Portuguese](https://github.com/guylhermetabosa/git-style-guide)
-* [Spanish](https://github.com/alexsimo/git-style-guide)
+* [Russian](https://github.com/alik0211/git-style-guide)
+* [Spanish](https://github.com/jeko2000/git-style-guide)
 * [Thai](https://github.com/zondezatera/git-style-guide)
 * [Turkish](https://github.com/CnytSntrk/git-style-guide)
 * [Ukrainian](https://github.com/denysdovhan/git-style-guide)
-
+*
 貴方がこのガイドをよりよい物にしたいと思ったなら、是非このプロジェクトをフォークしてプルリクエストを送って下さい。
 
 # 目次
@@ -48,7 +50,13 @@ Kernel*](https://kernel.org/doc/html/latest/process/submitting-patches.html) や
   $ git checkout -b issue-15
   ```
 
-* 単語の区切りには 「-」を使いましょう。
+* 特に理由が無い限りブランチ名には英小文字を使いましょう。外部のサービスが使っているチケット番号などは英大文字のままでも大丈夫です。単語の区切りには 「-」を使いましょう。
+
+  ```shell
+  $ git checkout -b new-feature      # good
+  $ git checkout -b T321-new-feature # good (Phabricator task id)
+  $ git checkout -b New_Feature      # bad
+  ```
 
 * 複数人が一つのフィーチャーに対して作業する場合、以下のような命名規則で *個人用* フィーチャーブランチと *チーム用* フィーチャーブランチを作ると便利かもしれません:
 
@@ -74,9 +82,9 @@ Kernel*](https://kernel.org/doc/html/latest/process/submitting-patches.html) や
 * 箇々のコミットは *論理的に* 1つの変更を表すべきです。複数の *論理的な* 変更を 1つのコミットでするべきではありません。
   ある 1つのパッチがバグフィックスと最適化を両方行っているとしたら、その変更は 2つのコミットに分けるべきです。
 
-* *論理的に* 1つの変更を複数のコミットに分けてはいけません。例えば、ある機能の実装と関連するテストは 1つのコミットになっているべきです。
+  *Tip: `git add -p` を使って変更の一部だけを対話的にステージ領域へ取り込むことが出来ます。*
 
-Tip: `git add -p` を使って変更の一部だけを対話的にステージ領域へ取り込むことが出来ます。
+* *論理的に* 1つの変更を複数のコミットに分けてはいけません。例えば、ある機能の実装と関連するテストは 1つのコミットになっているべきです。
 
 * 出来るだけ *早い段階で* *頻繁に* コミットしましょう。
   小さく、自己完結的なコミットは理解しやすく、何か問題が起きた場合の復旧も早いからです。
