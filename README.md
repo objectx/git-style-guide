@@ -27,7 +27,7 @@ Kernel*](https://kernel.org/doc/html/latest/process/submitting-patches.html) や
 
 1. [ブランチ](#ブランチ)
 2. [コミット](#コミット)
-  1. [コミットメッセージ](#コミットメッセージ)
+   1. [コミットメッセージ](#コミットメッセージ)
 3. [マージ](#マージ)
 4. [その他](#その他)
 
