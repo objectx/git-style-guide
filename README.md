@@ -12,6 +12,7 @@ Kernel*](https://kernel.org/doc/html/latest/process/submitting-patches.html) や
 * [French](https://github.com/pierreroth64/git-style-guide)
 * [German](https://github.com/runjak/git-style-guide)
 * [Greek](https://github.com/grigoria/git-style-guide)
+* [Italian](https://github.com/vincendep/git-style-guide)
 * [Korean](https://github.com/ikaruce/git-style-guide)
 * [Polish](https://github.com/mbiesiad/git-style-guide/tree/pl_PL)
 * [Portuguese](https://github.com/guylhermetabosa/git-style-guide)
@@ -20,7 +21,7 @@ Kernel*](https://kernel.org/doc/html/latest/process/submitting-patches.html) や
 * [Thai](https://github.com/zondezatera/git-style-guide)
 * [Turkish](https://github.com/CnytSntrk/git-style-guide)
 * [Ukrainian](https://github.com/denysdovhan/git-style-guide)
-*
+
 貴方がこのガイドをよりよい物にしたいと思ったなら、是非このプロジェクトをフォークしてプルリクエストを送って下さい。
 
 # 目次
